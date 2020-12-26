@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7ad2f628dc5fb5f498074b66a2304550
+timeCreated: 1487069600
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap:
+    VacuumShaders.RenderMonster.RenderMonster: {fileID: 2800000, guid: 704cfb464e77eb74898e41f99843202b,
+      type: 3}
+  executionOrder: {}
+  isPreloaded: 0
+  isOverridable: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
